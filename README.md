@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shiraz Khan  
-- 👀 I’m interested in JS ( ReactJS , NextJS ) and PHP ( Backend )  
-- 🌱 I’m currently learning NextJS
+- 👀 I’m interested in JS ( ReactJS , NextJS ) 
 - 📫 How to reach me RetrQ#0395
 
 <!---
